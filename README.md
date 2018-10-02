@@ -1,4 +1,4 @@
-# ast-2018
+\# ast-2018
 Advanced Software Technology 2018 course work
 
 
@@ -13,7 +13,7 @@ Students attending:
 6. ---
 7. ---
 8. ---
-9. ---
+9.My Name is Akash   ---
 10. ---
 11. ---
 12. ---
