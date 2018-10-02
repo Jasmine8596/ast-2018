@@ -12,7 +12,7 @@ Students attending:
 5. ---
 6. ---
 7. ---
-8. ---
+8. Jasmine Padhye---
 9. ---
 10. ---
 11. ---
